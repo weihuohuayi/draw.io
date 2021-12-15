@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T07:29:10.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="DEWUvzHi2dKXHwNP0fLz" version="15.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-15T07:47:37.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="BOQcOxbz2s5qyHYuTx0D" version="15.9.6" type="github" pages="2">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="868" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -164,12 +164,102 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8ZNkPNpzcMx2T0sxvTHA" name="Page-2">
-    <mxGraphModel dx="1021" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Koh-GuARSo2pHLwbyBPv-0" />
         <mxCell id="Koh-GuARSo2pHLwbyBPv-1" parent="Koh-GuARSo2pHLwbyBPv-0" />
         <mxCell id="STwrOhRklooQAh6NSAL1-0" value="inPut" style="swimlane;whiteSpace=wrap" vertex="1" parent="Koh-GuARSo2pHLwbyBPv-1">
           <mxGeometry x="164.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="STwrOhRklooQAh6NSAL1-39" value="授权知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="STwrOhRklooQAh6NSAL1-40" value="手术知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="STwrOhRklooQAh6NSAL1-41" value="医疗材料收费知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="114" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="STwrOhRklooQAh6NSAL1-42" value="特殊用药知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="114" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="STwrOhRklooQAh6NSAL1-43" value="手术安全核查表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="176" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="STwrOhRklooQAh6NSAL1-44" value="手术风险评估表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="176" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="STwrOhRklooQAh6NSAL1-45" value="新冠病毒筛查表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="254" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="STwrOhRklooQAh6NSAL1-46" value="术前小结" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="332" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-0" value="手术标记" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="145.5" y="292" width="63.33" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-1" value="授权知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-2" value="手术知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-3" value="授权知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-4" value="手术知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-5" value="医疗材料收费知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="114" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-6" value="授权知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-7" value="手术知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-8" value="医疗材料收费知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="114" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-9" value="手术风险评估表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="176" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-10" value="授权知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-11" value="手术知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-12" value="医疗材料收费知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="114" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-13" value="手术风险评估表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="176" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-14" value="手术安全核查表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="176" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-15" value="授权知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-16" value="手术知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="52" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-17" value="医疗材料收费知情同意书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="114" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-18" value="手术风险评估表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="120" y="176" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-19" value="手术安全核查表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="176" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-20" value="新冠病毒筛查表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="254" width="104.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-21" value="术前小结" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="15.5" y="332" width="104.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="STwrOhRklooQAh6NSAL1-11" value="Process" style="swimlane;whiteSpace=wrap" vertex="1" parent="Koh-GuARSo2pHLwbyBPv-1">
           <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry">
@@ -184,10 +274,10 @@
             <mxPoint x="55" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="STwrOhRklooQAh6NSAL1-14" value="idle" style="" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
+        <mxCell id="STwrOhRklooQAh6NSAL1-14" value="医嘱下达明天手术" style="" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
           <mxGeometry x="20" y="110" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="STwrOhRklooQAh6NSAL1-15" value="check for &#xa;new commands" style="" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
+        <mxCell id="STwrOhRklooQAh6NSAL1-15" value="病房患者信息核对" style="" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
           <mxGeometry x="20" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="STwrOhRklooQAh6NSAL1-16" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="STwrOhRklooQAh6NSAL1-11" source="STwrOhRklooQAh6NSAL1-14" target="STwrOhRklooQAh6NSAL1-15">
@@ -199,7 +289,7 @@
         <mxCell id="STwrOhRklooQAh6NSAL1-18" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="STwrOhRklooQAh6NSAL1-11" source="STwrOhRklooQAh6NSAL1-15" target="STwrOhRklooQAh6NSAL1-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="STwrOhRklooQAh6NSAL1-19" value="queue empty" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
+        <mxCell id="STwrOhRklooQAh6NSAL1-19" value="缺项" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
           <mxGeometry x="150" y="225" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="STwrOhRklooQAh6NSAL1-20" value="yes" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;exitX=0.5;exitY=0;endFill=1;rounded=0;entryX=0.75;entryY=0.5;entryPerimeter=0" edge="1" parent="STwrOhRklooQAh6NSAL1-11" source="STwrOhRklooQAh6NSAL1-19" target="STwrOhRklooQAh6NSAL1-23">
