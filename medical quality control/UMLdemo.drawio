@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T09:33:45.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hoeZtLHqQdkSbKJLUSdv" version="15.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-15T09:35:58.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ETNAWOcFdd6HkwF_8mE3" version="15.9.6" type="github" pages="2">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="868" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
         <mxCell id="PTWqVlbE14Y938z7VgFS-92" value="&lt;span&gt;术前资料&lt;/span&gt;缺项" style="rhombus;whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
           <mxGeometry x="141" y="792" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="PTWqVlbE14Y938z7VgFS-115" value="手术室&amp;nbsp; Idle" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
+        <mxCell id="PTWqVlbE14Y938z7VgFS-133" value="患者到达手术室" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="STwrOhRklooQAh6NSAL1-11">
           <mxGeometry x="163" y="981" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PTWqVlbE14Y938z7VgFS-63" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.494;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.494;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="STwrOhRklooQAh6NSAL1-0" source="STwrOhRklooQAh6NSAL1-15" target="PTWqVlbE14Y938z7VgFS-62">
@@ -427,6 +427,11 @@
         <mxCell id="PTWqVlbE14Y938z7VgFS-96" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="PTWqVlbE14Y938z7VgFS-95">
           <mxGeometry x="-0.1852" relative="1" as="geometry">
             <mxPoint x="-8" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="STwrOhRklooQAh6NSAL1-0" source="PTWqVlbE14Y938z7VgFS-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="648" y="982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PTWqVlbE14Y938z7VgFS-97" value="送手术室，触发完成事件" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
@@ -510,6 +515,14 @@
           <mxGeometry x="-0.2595" relative="1" as="geometry">
             <mxPoint x="12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=-0.012;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="STwrOhRklooQAh6NSAL1-0" source="PTWqVlbE14Y938z7VgFS-115" target="PTWqVlbE14Y938z7VgFS-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="901.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTWqVlbE14Y938z7VgFS-115" value="手术室&amp;nbsp; Idle" style="whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="STwrOhRklooQAh6NSAL1-0">
+          <mxGeometry x="180" y="872" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STwrOhRklooQAh6NSAL1-30" value="outPut" style="swimlane;whiteSpace=wrap" vertex="1" parent="Koh-GuARSo2pHLwbyBPv-1">
           <mxGeometry x="930" y="128" width="280" height="1172" as="geometry" />
