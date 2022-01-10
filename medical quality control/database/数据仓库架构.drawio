@@ -1,4 +1,4 @@
-<mxfile modified="2022-01-10T13:20:32.609Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="eXSoUtdu6e6gx0Pu-UW2" version="16.2.4" type="github" pages="2">
+<mxfile modified="2022-01-10T13:25:11.128Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="_fBnQKjCNj4_go3t8R2h" version="16.2.4" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="782" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ku3rvnvj6K7v-nMv4RA4" name="Page-2">
-    <mxGraphModel dx="3434" dy="2612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3955" dy="2901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6bDP2qCtb0G5AtfNPlWG-0" />
         <mxCell id="6bDP2qCtb0G5AtfNPlWG-1" parent="6bDP2qCtb0G5AtfNPlWG-0" />
@@ -579,8 +579,14 @@
         <mxCell id="fcR9lt4NUHTxITRhkl8_-51" value="展现" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=30;fillColor=#FFFFFF;size=60;" vertex="1" parent="6bDP2qCtb0G5AtfNPlWG-1">
           <mxGeometry x="260" y="-1060" width="291" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="fcR9lt4NUHTxITRhkl8_-52" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=30;fillColor=#FFFFFF;size=60;" vertex="1" parent="6bDP2qCtb0G5AtfNPlWG-1">
+        <mxCell id="fcR9lt4NUHTxITRhkl8_-52" value="财务管理" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=30;fillColor=#FFFFFF;size=60;" vertex="1" parent="6bDP2qCtb0G5AtfNPlWG-1">
           <mxGeometry x="557" y="-870" width="291" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fcR9lt4NUHTxITRhkl8_-53" value="用户画像" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=30;fillColor=#FFFFFF;size=60;" vertex="1" parent="6bDP2qCtb0G5AtfNPlWG-1">
+          <mxGeometry x="230" y="-870" width="291" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fcR9lt4NUHTxITRhkl8_-54" value="质量管理" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=30;fillColor=#FFFFFF;size=60;" vertex="1" parent="6bDP2qCtb0G5AtfNPlWG-1">
+          <mxGeometry x="878" y="-870" width="291" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
