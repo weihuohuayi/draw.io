@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T02:56:32.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QBJnZyVPhF3kzODMCah1" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-10T03:03:54.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="-QvjPEyfo1FZp646kiPS" version="16.2.4" type="github" pages="2">
   <diagram id="0d7cefc2-ccd6-e077-73ed-a8e48b0cddf6" name="Page-1">
     <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TUd-m-yRJRX8zrp-ttiG" name="Page-2">
-    <mxGraphModel dx="2150" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3232" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9I1Oy4cjOqXP2nx9hWXl-0" />
         <mxCell id="9I1Oy4cjOqXP2nx9hWXl-1" parent="9I1Oy4cjOqXP2nx9hWXl-0" />
@@ -134,8 +134,8 @@
         <mxCell id="9I1Oy4cjOqXP2nx9hWXl-15" value="立德树人功能组" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=16;spacingTop=3;image;image=img/lib/ibm/management/content_management.svg;labelBorderColor=#0000FF;" parent="9I1Oy4cjOqXP2nx9hWXl-1" vertex="1">
           <mxGeometry x="550" y="610" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9I1Oy4cjOqXP2nx9hWXl-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=16;spacingTop=3;image;image=img/lib/ibm/applications/actionable_insight.svg;labelBorderColor=#0000FF;" parent="9I1Oy4cjOqXP2nx9hWXl-1" vertex="1">
-          <mxGeometry x="320" y="610" width="60" height="60" as="geometry" />
+        <mxCell id="9I1Oy4cjOqXP2nx9hWXl-16" value="人资与财务数字化功能组" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=16;spacingTop=3;image;image=img/lib/ibm/applications/actionable_insight.svg;labelBorderColor=#0000FF;" parent="9I1Oy4cjOqXP2nx9hWXl-1" vertex="1">
+          <mxGeometry x="331" y="615" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9I1Oy4cjOqXP2nx9hWXl-18" value="&lt;span style=&quot;font-size: 16px&quot;&gt;数字资源运维功能组&lt;/span&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/caches.svg;labelBorderColor=#0000FF;" parent="9I1Oy4cjOqXP2nx9hWXl-1" vertex="1">
           <mxGeometry x="830" y="265" width="60" height="60" as="geometry" />
@@ -145,6 +145,9 @@
         </mxCell>
         <mxCell id="9I1Oy4cjOqXP2nx9hWXl-31" value="" style="triangle;whiteSpace=wrap;html=1;labelBorderColor=#0000FF;fontSize=16;rotation=-90;labelBackgroundColor=#03FFF7;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;gradientDirection=east;" parent="9I1Oy4cjOqXP2nx9hWXl-1" vertex="1">
           <mxGeometry x="350" y="-160" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="NiHkqGlL7as9H3TZBHkw-0" value="患者与服务对象至上" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="9I1Oy4cjOqXP2nx9hWXl-1">
+          <mxGeometry x="370" y="140" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
