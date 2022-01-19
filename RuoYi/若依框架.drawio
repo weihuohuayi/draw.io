@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T07:03:16.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1Gmthw2w9wEOtkZRfOep" version="16.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T07:23:57.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="OXjy0ApsWiq4ojS5fuoO" version="16.3.0" type="github" pages="5">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -329,8 +329,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="GC8yviehDHkQR37qEAlA" name="Page-3">
-    <mxGraphModel dx="1583" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="GC8yviehDHkQR37qEAlA" name="SpringBoot启动">
+    <mxGraphModel dx="2150" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JYankMjyzqTV-Mno9nf2-0" />
         <mxCell id="JYankMjyzqTV-Mno9nf2-1" parent="JYankMjyzqTV-Mno9nf2-0" />
@@ -351,7 +351,7 @@
             <mxPoint x="405" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LZX4Dam8aCB3b2nLBFEO-4" value="Run方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bzbiTXlW7oj-KKMZCKuq-12">
+        <mxCell id="LZX4Dam8aCB3b2nLBFEO-4" value="Run方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bzbiTXlW7oj-KKMZCKuq-12" vertex="1" connectable="0">
           <mxGeometry x="-0.3529" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -364,7 +364,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LZX4Dam8aCB3b2nLBFEO-3" value="初始化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bzbiTXlW7oj-KKMZCKuq-17">
+        <mxCell id="LZX4Dam8aCB3b2nLBFEO-3" value="初始化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bzbiTXlW7oj-KKMZCKuq-17" vertex="1" connectable="0">
           <mxGeometry x="-0.4144" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -377,7 +377,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LZX4Dam8aCB3b2nLBFEO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="JYankMjyzqTV-Mno9nf2-2" target="LZX4Dam8aCB3b2nLBFEO-0">
+        <mxCell id="LZX4Dam8aCB3b2nLBFEO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JYankMjyzqTV-Mno9nf2-1" source="JYankMjyzqTV-Mno9nf2-2" target="LZX4Dam8aCB3b2nLBFEO-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JYankMjyzqTV-Mno9nf2-2" value="SpringApplication" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#6600CC;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
@@ -433,8 +433,8 @@
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-13" value="&lt;font color=&quot;#0000cc&quot;&gt;printBanner()&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;设置启动banner图&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="600" y="870" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bzbiTXlW7oj-KKMZCKuq-15" value="&lt;h1&gt;参考&lt;/h1&gt;&lt;p&gt;https://blog.csdn.net/qq_20376983/article/details/104256283&lt;/p&gt;&lt;p&gt;https://blog.csdn.net/qq_20376983/article/details/104256283&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#0000CC;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
-          <mxGeometry x="770" y="20" width="190" height="120" as="geometry" />
+        <mxCell id="bzbiTXlW7oj-KKMZCKuq-15" value="&lt;h1&gt;参考&lt;/h1&gt;&lt;p&gt;https://blog.csdn.net/qq_20376983/article/details/104256283&lt;/p&gt;&lt;p&gt;https://blog.csdn.net/qq_20376983/article/details/104256283&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://www.bilibili.com/video/BV15U4y177LH/?spm_id_from=333.788.videocard.3&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#0000CC;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
+          <mxGeometry x="930" y="60" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000CC;" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-16" target="bzbiTXlW7oj-KKMZCKuq-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -578,10 +578,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VbrlkuIR_uDKlw-UUtrg-15" value="&lt;font color=&quot;#4d9900&quot;&gt;@ComponentScan&lt;br&gt;&lt;/font&gt;对应XML配置中的元素&lt;br&gt;&lt;div&gt;自动扫描并加载符合条件的组件&lt;br&gt;&lt;/div&gt;&lt;div&gt;最终将这些bean定义加载到IoC容器中。&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
-          <mxGeometry x="1750" y="580" width="240" height="100" as="geometry" />
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-15" value="&lt;font color=&quot;#4d9900&quot;&gt;@ComponentScan&lt;br&gt;&lt;/font&gt;对应XML配置中的元素&lt;br&gt;包扫描路径&lt;br&gt;&lt;div&gt;标注哪些路径下的类需要被Spring扫描&lt;/div&gt;&lt;div&gt;&lt;span&gt;自动扫描并加载符合条件的组件&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;最终将这些bean定义加载到IoC容器中。&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
+          <mxGeometry x="1740" y="580" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VbrlkuIR_uDKlw-UUtrg-16" value="&lt;font color=&quot;#4d9900&quot;&gt;@EnableAutoConfiguration&lt;br&gt;&lt;/font&gt;springboot自动配置核心注解&lt;br&gt;借助@Import的帮助，将所有符合自动配置条件的bean定义加载到IoC容器&lt;br&gt;&lt;br&gt;通过yaml，导入Jar包" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-16" value="&lt;font color=&quot;#4d9900&quot;&gt;@EnableAutoConfiguration&lt;br&gt;&lt;/font&gt;springboot自动配置核心注解&lt;br&gt;借助@Import的帮助，将所有符合自动配置条件的bean定义加载到IoC容器&lt;br&gt;&lt;br&gt;告诉SpringBoot根据yaml文件中添加的Jar包依赖，猜测你想如何配置Spring" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="2020" y="580" width="480" height="400" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-17" value="执行注解：扫描、载入自动配置的Bean&lt;br&gt;EnableAutoConfiguration 将所有符合自动配置条件的bean定义加载到IoC容器" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#432D57;fontStyle=1;startSize=26;align=left;fillColor=#76608a;fontColor=#ffffff;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
@@ -1002,7 +1002,7 @@
         <mxCell id="ttmiYBdyxn3PdhovE2ei-31" value="初始化 SpringBoot 项目启动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=17;fontColor=#000000;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="100" y="600" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LZX4Dam8aCB3b2nLBFEO-0" value="new SpringApplication（）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+        <mxCell id="LZX4Dam8aCB3b2nLBFEO-0" value="new SpringApplication（）" style="rounded=0;whiteSpace=wrap;html=1;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="310.5" y="460" width="189" height="40" as="geometry" />
         </mxCell>
       </root>
