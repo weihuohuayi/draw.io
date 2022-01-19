@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T06:44:15.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="CvY7OFSAMfnLlAzrG-Yk" version="16.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T06:48:22.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="KFr6XlXUm5G-jDDh9VtP" version="16.2.6" type="github" pages="5">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,7 +415,7 @@
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-11" value="&lt;font color=&quot;#0000cc&quot;&gt;静态方法 run()&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-weight: normal&quot;&gt;调用启动方法&lt;br&gt;返回SpringBoot容器上下文&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="305" y="690" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bzbiTXlW7oj-KKMZCKuq-13" value="&lt;font color=&quot;#0000cc&quot;&gt;Banner()&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;设置启动banner图&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
+        <mxCell id="bzbiTXlW7oj-KKMZCKuq-13" value="&lt;font color=&quot;#0000cc&quot;&gt;printBanner()&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;设置启动banner图&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="600" y="870" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-15" value="&lt;h1&gt;参考&lt;/h1&gt;&lt;p&gt;https://blog.csdn.net/qq_20376983/article/details/104256283&lt;/p&gt;&lt;p&gt;https://blog.csdn.net/qq_20376983/article/details/104256283&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#0000CC;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
@@ -699,10 +699,15 @@
           <mxGeometry x="802" y="870" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-47" target="VbrlkuIR_uDKlw-UUtrg-75" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="882" y="1030" />
+              <mxPoint x="895" y="1030" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-47" value="基本属性配置&lt;br&gt;运行自定义执行器" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
-          <mxGeometry x="800" y="971" width="110" height="40" as="geometry" />
+          <mxGeometry x="827" y="975.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-19" target="VbrlkuIR_uDKlw-UUtrg-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -720,7 +725,7 @@
             <mxPoint x="689.76" y="970" as="targetPoint" />
             <Array as="points">
               <mxPoint x="911" y="950" />
-              <mxPoint x="705" y="950" />
+              <mxPoint x="725" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -730,8 +735,8 @@
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-51" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;创建配置环境（web/noweb）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="360" y="971" width="80" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VbrlkuIR_uDKlw-UUtrg-52" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;启动创建应用上下文对象（web/noweb）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
-          <mxGeometry x="630" y="971" width="150" height="40" as="geometry" />
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-52" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;启动createApplicationContext对象（web/noweb）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
+          <mxGeometry x="630" y="971" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-53" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;加载属性文件资源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="450" y="971" width="80" height="49" as="geometry" />
@@ -745,7 +750,7 @@
             <mxPoint x="810" y="1030" as="targetPoint" />
             <Array as="points">
               <mxPoint x="912" y="950" />
-              <mxPoint x="859" y="950" />
+              <mxPoint x="886" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -831,7 +836,7 @@
             <mxPoint x="830" y="1090" as="sourcePoint" />
             <mxPoint x="880" y="1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="855" y="1030" />
+              <mxPoint x="882" y="1030" />
               <mxPoint x="823" y="1030" />
             </Array>
           </mxGeometry>
@@ -841,7 +846,7 @@
             <mxPoint x="865.0000000000005" y="1024.5000000000002" as="sourcePoint" />
             <mxPoint x="832.5" y="1062.0000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="855" y="1030" />
+              <mxPoint x="882" y="1030" />
               <mxPoint x="650" y="1030" />
             </Array>
           </mxGeometry>
