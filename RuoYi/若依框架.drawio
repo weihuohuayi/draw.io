@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T02:51:46.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1j3TctTEkbNXcoir-fzq" version="16.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T02:53:36.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VHG9IZNgUXh8D-AU-W2V" version="16.2.6" type="github" pages="5">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="1556" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,6 +178,12 @@
         </mxCell>
         <mxCell id="qlHp2FRM6QbqvakjydEB-52" value="FactoryBean&lt;br&gt;生成某一个独特的复杂对象" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=25;strokeWidth=2;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
           <mxGeometry x="1980" y="110" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qlHp2FRM6QbqvakjydEB-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=25;fontColor=#000000;fillColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.143;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="qlHp2FRM6QbqvakjydEB-1" source="qlHp2FRM6QbqvakjydEB-40" target="qlHp2FRM6QbqvakjydEB-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1490" y="860" as="sourcePoint" />
+            <mxPoint x="1540" y="810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
