@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T03:18:04.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lklj1R1W_bZnzZwa3Xpy" version="16.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T05:07:23.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="R9f1TssaNzQ2xSixd7fg" version="16.2.6" type="github" pages="5">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="1556" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,18 +330,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GC8yviehDHkQR37qEAlA" name="Page-3">
-    <mxGraphModel dx="1930" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1457" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JYankMjyzqTV-Mno9nf2-0" />
         <mxCell id="JYankMjyzqTV-Mno9nf2-1" parent="JYankMjyzqTV-Mno9nf2-0" />
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#4D9900;strokeColor=#FF8000;strokeWidth=2;fillColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="-710" y="330" width="740" height="480" as="geometry" />
+          <mxGeometry x="-770" y="580" width="740" height="480" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#4D9900;strokeColor=#FF8000;strokeWidth=2;fillColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
           <mxGeometry x="70" y="150" width="740" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#4D9900;strokeColor=#FF8000;strokeWidth=2;fillColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="70" y="330" width="790" height="480" as="geometry" />
+          <mxGeometry x="45" y="580" width="790" height="570" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4D9900;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="JYankMjyzqTV-Mno9nf2-2" target="bzbiTXlW7oj-KKMZCKuq-11">
           <mxGeometry relative="1" as="geometry" />
@@ -350,7 +350,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontColor=#000000;fillColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="JYankMjyzqTV-Mno9nf2-5" target="VbrlkuIR_uDKlw-UUtrg-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="480" />
+              <mxPoint x="590" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JYankMjyzqTV-Mno9nf2-2" value="SpringApplication" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#6600CC;" parent="JYankMjyzqTV-Mno9nf2-1" vertex="1">
           <mxGeometry x="300" y="350" width="210" height="120" as="geometry" />
@@ -391,11 +396,14 @@
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CC0000;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-11" target="bzbiTXlW7oj-KKMZCKuq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bzbiTXlW7oj-KKMZCKuq-11" value="&lt;font color=&quot;#0000cc&quot;&gt;run()&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-weight: normal&quot;&gt;调用启动方法&lt;br&gt;返回SpringBoot容器上下文&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="305" y="501" width="200" height="70" as="geometry" />
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-11" target="VbrlkuIR_uDKlw-UUtrg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzbiTXlW7oj-KKMZCKuq-11" value="&lt;font color=&quot;#0000cc&quot;&gt;静态方法 run()&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-weight: normal&quot;&gt;调用启动方法&lt;br&gt;返回SpringBoot容器上下文&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="305" y="690" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-13" value="&lt;font color=&quot;#0000cc&quot;&gt;Banner()&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;设置启动banner图&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="535" y="506" width="140" height="60" as="geometry" />
+          <mxGeometry x="530" y="695" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-15" value="&lt;h1&gt;参考&lt;/h1&gt;&lt;p&gt;https://blog.csdn.net/qq_20376983/article/details/104256283&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#0000CC;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
           <mxGeometry x="770" y="20" width="190" height="120" as="geometry" />
@@ -404,71 +412,74 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-16" value="SpringApplication()&lt;br&gt;构造一个Spring应用" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="-440" y="390" width="140" height="40" as="geometry" />
+          <mxGeometry x="-500" y="640" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000CC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-18" target="bzbiTXlW7oj-KKMZCKuq-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-370" y="540" />
-              <mxPoint x="-530" y="540" />
+              <mxPoint x="-430" y="790" />
+              <mxPoint x="-590" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-18" target="VbrlkuIR_uDKlw-UUtrg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-18" value="初始化模块" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="-420" y="480" width="100" height="30" as="geometry" />
+          <mxGeometry x="-480" y="725" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-21" value="创建初始化构造器" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#6600CC;fontStyle=1;startSize=26;align=center;strokeWidth=2;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="-360" y="575.75" width="120" height="39.5" as="geometry" />
+          <mxGeometry x="-420" y="825.75" width="120" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-24" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#0000CC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-18" target="bzbiTXlW7oj-KKMZCKuq-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="530" as="sourcePoint" />
-            <mxPoint x="-110" y="480" as="targetPoint" />
+            <mxPoint x="-220" y="780" as="sourcePoint" />
+            <mxPoint x="-170" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-370" y="540" />
-              <mxPoint x="-300" y="540" />
+              <mxPoint x="-430" y="790" />
+              <mxPoint x="-360" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-25" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;配置Source&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="-580" y="571" width="100" height="49" as="geometry" />
+          <mxGeometry x="-640" y="821" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-26" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;配置是否为Web环境&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="-460" y="571" width="80" height="49" as="geometry" />
+          <mxGeometry x="-520" y="821" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#0000CC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-18" target="bzbiTXlW7oj-KKMZCKuq-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="520" as="sourcePoint" />
-            <mxPoint x="-110" y="470" as="targetPoint" />
+            <mxPoint x="-220" y="770" as="sourcePoint" />
+            <mxPoint x="-170" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-370" y="540" />
-              <mxPoint x="-420" y="540" />
+              <mxPoint x="-430" y="790" />
+              <mxPoint x="-480" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-28" value="创建应用监听器" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#6600CC;fontStyle=1;startSize=26;align=center;strokeWidth=2;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="-230" y="575.75" width="120" height="39.5" as="geometry" />
+          <mxGeometry x="-290" y="825.75" width="120" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-29" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#0000CC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" target="bzbiTXlW7oj-KKMZCKuq-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-370" y="510" as="sourcePoint" />
-            <mxPoint x="-110" y="470" as="targetPoint" />
+            <mxPoint x="-430" y="760" as="sourcePoint" />
+            <mxPoint x="-170" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-370" y="540" />
-              <mxPoint x="-170" y="540" />
+              <mxPoint x="-430" y="790" />
+              <mxPoint x="-230" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;配置应用主方法所在类&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="-100" y="571" width="80" height="49" as="geometry" />
+          <mxGeometry x="-160" y="821" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-31" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#0000CC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-18" target="bzbiTXlW7oj-KKMZCKuq-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100" y="500" as="sourcePoint" />
-            <mxPoint x="-50" y="450" as="targetPoint" />
+            <mxPoint x="-160" y="750" as="sourcePoint" />
+            <mxPoint x="-110" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-370" y="540" />
-              <mxPoint x="-60" y="540" />
+              <mxPoint x="-430" y="790" />
+              <mxPoint x="-120" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -482,7 +493,152 @@
           <mxGeometry x="630" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-0" value="return newSpringApplication(primarySources).run(args)" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="550" y="424" width="290" height="50" as="geometry" />
+          <mxGeometry x="455" y="500" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-2" target="VbrlkuIR_uDKlw-UUtrg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-2" value="&lt;span style=&quot;&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; color: rgb(252 , 155 , 155) ; line-height: inherit ; word-break: inherit&quot;&gt;@SpringBootApplication&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; color: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; line-height: inherit ; word-break: inherit&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; color: rgb(252 , 194 , 140) ; line-height: inherit ; word-break: inherit&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; display: inline ; float: none&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; color: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; line-height: inherit ; word-break: inherit&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: 14px ; color: rgb(252 , 194 , 140) ; line-height: inherit ; word-break: inherit&quot;&gt;class&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: 14px ; color: rgb(255 , 255 , 170) ; line-height: inherit ; word-break: inherit&quot;&gt;Application&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; display: inline ; float: none&quot;&gt;{&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; color: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; line-height: inherit ; word-break: inherit&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; display: inline ; float: none&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; color: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; line-height: inherit ; word-break: inherit&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: 14px ; color: rgb(252 , 194 , 140) ; line-height: inherit ; word-break: inherit&quot;&gt;public&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: 14px ; color: rgb(252 , 194 , 140) ; line-height: inherit ; word-break: inherit&quot;&gt;static&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: 14px ; color: rgb(252 , 194 , 140) ; line-height: inherit ; word-break: inherit&quot;&gt;void&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: 14px ; color: rgb(255 , 255 , 170) ; line-height: inherit ; word-break: inherit&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: 14px ; color: inherit ; line-height: inherit ; word-break: inherit&quot;&gt;(String[]&amp;nbsp;args)&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; display: inline ; float: none&quot;&gt;{&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; color: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; line-height: inherit ; word-break: inherit&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; display: inline ; float: none&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;SpringApplication.run(Application.class,&amp;nbsp;args);&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; color: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; line-height: inherit ; word-break: inherit&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; display: inline ; float: none&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;}&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; color: inherit ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; line-height: inherit ; word-break: inherit&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;inconsolata&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: -3px ; display: inline ; float: none&quot;&gt;}&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=14;fontColor=#000000;strokeColor=default;strokeWidth=2;fillColor=#000000;align=left;labelBackgroundColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="570" y="350" width="410" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;fillColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="JYankMjyzqTV-Mno9nf2-3" target="VbrlkuIR_uDKlw-UUtrg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="350" as="sourcePoint" />
+            <mxPoint x="720" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-4" target="VbrlkuIR_uDKlw-UUtrg-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020.0344827586209" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-4" value="&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; color: rgb(252 , 155 , 155) ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;@Configuration&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; color: inherit ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; color: rgb(252 , 155 , 155) ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;@EnableAutoConfiguration&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; color: inherit ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; color: rgb(252 , 155 , 155) ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;@ComponentScan&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; color: inherit ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; color: rgb(252 , 194 , 140) ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 12px ; word-spacing: -3px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; color: inherit ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: inherit ; color: rgb(252 , 194 , 140) ; line-height: inherit ; word-break: inherit&quot;&gt;class&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: inherit ; color: rgb(255 , 255 , 170) ; line-height: inherit ; word-break: inherit&quot;&gt;Application&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 12px ; word-spacing: -3px&quot;&gt;{&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; color: inherit ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 12px ; word-spacing: -3px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(252 , 194 , 140) ; margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: inherit ; line-height: inherit ; word-break: inherit&quot;&gt;public&lt;/span&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(252 , 194 , 140) ; margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: inherit ; line-height: inherit ; word-break: inherit&quot;&gt;static&lt;/span&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(252 , 194 , 140) ; margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: inherit ; line-height: inherit ; word-break: inherit&quot;&gt;void&lt;/span&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(255 , 255 , 170) ; margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: inherit ; line-height: inherit ; word-break: inherit&quot;&gt;main&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span class=&quot;&quot; style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: inherit ; font-size: inherit ; line-height: inherit ; word-break: inherit&quot;&gt;(String[]&amp;nbsp;args)&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 12px ; word-spacing: -3px&quot;&gt;{&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; color: inherit ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 12px ; word-spacing: -3px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;SpringApplication.run(Application.class,&amp;nbsp;args);&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; color: inherit ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 12px ; word-spacing: -3px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;}&lt;/span&gt;&lt;br style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; color: inherit ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: inherit ; word-spacing: -3px ; line-height: inherit ; box-sizing: border-box ; overflow-wrap: inherit ; word-break: inherit&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;inconsolata&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 12px ; word-spacing: -3px&quot;&gt;}&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#000000;fontColor=#000000;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="1030" y="340" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-8" target="VbrlkuIR_uDKlw-UUtrg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-8" value="&lt;font color=&quot;#4d9900&quot;&gt;@Configuration&lt;br&gt;&lt;/font&gt;JavaConfig配置类&lt;br&gt;&lt;div&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: break-word ; font-size: inherit ; color: inherit ; line-height: inherit&quot;&gt;JavaConfig形式的IoC容器的配置类&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: break-word ; font-size: inherit ; color: inherit ; line-height: inherit&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: break-word ; font-size: inherit ; color: inherit ; line-height: inherit&quot;&gt;同 XML配置&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="930" y="580" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-9" value="表达形式层面" style="whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="870" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-11" value="注册bean定义层面" style="whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="1000" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-12" value="表达依赖注入关系层面" style="whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="1130" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-8" target="VbrlkuIR_uDKlw-UUtrg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="690" as="sourcePoint" />
+            <mxPoint x="1290" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="710" />
+              <mxPoint x="1060" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-8" target="VbrlkuIR_uDKlw-UUtrg-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="690" as="sourcePoint" />
+            <mxPoint x="1070" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="710" />
+              <mxPoint x="1190" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-15" value="&lt;font color=&quot;#4d9900&quot;&gt;@ComponentScan&lt;br&gt;&lt;/font&gt;对应XML配置中的元素&lt;br&gt;&lt;div&gt;自动扫描并加载符合条件的组件&lt;br&gt;&lt;/div&gt;&lt;div&gt;最终将这些bean定义加载到IoC容器中。&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="1200" y="580" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-16" value="&lt;font color=&quot;#4d9900&quot;&gt;@EnableAutoConfiguration&lt;br&gt;&lt;/font&gt;借助@Import的帮助，将所有符合自动配置条件的bean定义加载到IoC容器&lt;br&gt;&lt;br&gt;通过yaml，导入Jar包" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="1470" y="580" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-17" value="执行注解：扫描、载入自动配置的Bean&lt;br&gt;EnableAutoConfiguration 将所有符合自动配置条件的bean定义加载到IoC容器" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#432D57;fontStyle=1;startSize=26;align=left;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="-320" y="715" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-19" target="VbrlkuIR_uDKlw-UUtrg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-19" target="VbrlkuIR_uDKlw-UUtrg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-19" value="应用启动计时器开始计时&lt;br&gt;应用启动监听器开始监听" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="330" y="790" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-21" value="Headless模式配置" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="540" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-23" target="VbrlkuIR_uDKlw-UUtrg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-23" value="SpringApplicationRunListeners&lt;br&gt;应用启动监听器模块" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="120" y="870" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-25" value="启动" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="80" y="970" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-27" target="VbrlkuIR_uDKlw-UUtrg-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-27" value="监听" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="189" y="970" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-28" value="结束" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="284" y="970" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-29" value="应用上下文" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="176.5" y="1070" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-31" value="配置环境" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="81.5" y="1070" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-32" value="........" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="271.5" y="1070" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-27" target="VbrlkuIR_uDKlw-UUtrg-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="1030" as="sourcePoint" />
+            <mxPoint x="464" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="219" y="1040" />
+              <mxPoint x="124" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-27" target="VbrlkuIR_uDKlw-UUtrg-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="1080" as="sourcePoint" />
+            <mxPoint x="354" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="219" y="1040" />
+              <mxPoint x="314" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-23" target="VbrlkuIR_uDKlw-UUtrg-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1000" as="sourcePoint" />
+            <mxPoint x="410" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-23" target="VbrlkuIR_uDKlw-UUtrg-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="980" as="sourcePoint" />
+            <mxPoint x="440" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="950" />
+              <mxPoint x="314" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-37" value="ConfigurableEnvironment&lt;br&gt;配置环境模块" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="370" y="870" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-38" value="创建配置环境（web/noweb）" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="360" y="970" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
