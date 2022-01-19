@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T12:51:29.113Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="16.2.7" etag="JeSPsjcC10W37RcN_FNO" type="github"><diagram id="OJJvwFT3DYRRFlOV_Xp8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-19T13:24:07.676Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="1H5-HkE2LlJoi8xasxF8" version="16.2.7" type="github">
+  <diagram id="OJJvwFT3DYRRFlOV_Xp8" name="Page-1">
+    <mxGraphModel dx="1738" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-1" value="终端显示层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="195" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-2" value="开放接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="379" y="190" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-3" value="请求处理层（Web层-Controller层）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="195" y="260" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-4" value="业务逻辑层（Service层）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="195" y="330" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-5" value="通用处理层（Manage层）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="325" y="480" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-6" value="数据持久层（DAO层）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="195" y="550" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-7" value="数据源" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="195" y="700" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-8" value="外部接口或第三方平台" style="shape=card;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="475" y="630" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="610" as="sourcePoint" />
+            <mxPoint x="505" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="560" as="sourcePoint" />
+            <mxPoint x="545" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284.25" y="535" as="sourcePoint" />
+            <mxPoint x="284.25" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224.75" y="485" as="sourcePoint" />
+            <mxPoint x="224.75" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524.5" y="315" as="sourcePoint" />
+            <mxPoint x="524.5" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="265" as="sourcePoint" />
+            <mxPoint x="465" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="256.25" y="80" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-16" value="控制层：负责请求/响应的控制，会调用下面的Service层具体业务逻辑，最终返回装填好数据的页面或数据到前端" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="260" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-17" value="服务层：真正的业务逻辑处理层，完成具体的业务功能，它会调用下面的DAO层逻辑，完成数据库操作。&lt;br&gt;一般分为Service接口+Service实现，用面向接口的编程思想，为后续功能的解耦和扩展留下余地" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="342.5" width="180" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-18" value="数据操作层：mapper层。&lt;br&gt;作用是访问数据库，向数据库发送SQL语句，完成数据库操作。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="560" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-21" value="SQL" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="650" as="sourcePoint" />
+            <mxPoint x="365" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-22" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="lIQjun9MHloJ_TF3EPqx-21">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-24" value="SQL语句" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="665" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="290" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-26" value="Service接口层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-27" value="Service实现层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="405" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-28" value="DTO/VO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="35" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-29" value="泛指控制层与服务层之间的数据传输对象" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="385" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="457.5" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-31" value="DO/Entity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="35" y="497.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lIQjun9MHloJ_TF3EPqx-32" value="泛指服务层与DAO层间的数据传输对象" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="545" width="110" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
