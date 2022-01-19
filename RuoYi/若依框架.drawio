@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T08:37:14.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="H9hGYL8WugRGfT5NZafW" version="16.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T08:37:45.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ZtyloonTthExdQgCaFi_" version="16.3.0" type="github" pages="5">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -886,7 +886,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5YMj6IiK4VI-nKgOGlTZ" name="包关系">
+  <diagram id="5YMj6IiK4VI-nKgOGlTZ" name="文件结构（模块关系）">
     <mxGraphModel dx="756" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="b4bja8ucJGH01z92zfKD-0" />
