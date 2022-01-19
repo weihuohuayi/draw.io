@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T08:46:26.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="2IPAJH8zuJhT_L4kCKIJ" version="16.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T08:47:14.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="NFF2WpVhciuMp59ZrS0b" version="16.3.0" type="github" pages="5">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -962,7 +962,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hQGp-sZqs44S8wo2PqNd-6" value="ruoyi-XXX&lt;br&gt;新添加的模块" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="b4bja8ucJGH01z92zfKD-1">
+        <mxCell id="hQGp-sZqs44S8wo2PqNd-6" value="ruoyi-XXX&lt;br&gt;新添加的模块" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="b4bja8ucJGH01z92zfKD-1">
           <mxGeometry x="110" y="440" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hQGp-sZqs44S8wo2PqNd-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=110;exitDy=14;exitPerimeter=0;" edge="1" parent="b4bja8ucJGH01z92zfKD-1" source="hQGp-sZqs44S8wo2PqNd-6" target="b4bja8ucJGH01z92zfKD-4">
