@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T02:34:02.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="nEzTXUd48BO0hlFFQe5L" version="16.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T02:43:01.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3939XTiGZmYVXn5N50QQ" version="16.2.6" type="github" pages="5">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
-    <mxGraphModel dx="1556" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qlHp2FRM6QbqvakjydEB-0" />
         <mxCell id="qlHp2FRM6QbqvakjydEB-1" parent="qlHp2FRM6QbqvakjydEB-0" />
@@ -137,20 +137,38 @@
         <mxCell id="qlHp2FRM6QbqvakjydEB-36" value="Constructor con = Class.getConstructor()&lt;br&gt;Person person = con.newInstance()" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBorderColor=none;fontSize=25;strokeColor=none;strokeWidth=2;fillColor=#FFFF99;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
           <mxGeometry x="1395" y="200" width="470" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qlHp2FRM6QbqvakjydEB-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;fontSize=25;fontColor=#000000;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.173;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=default;" edge="1" parent="qlHp2FRM6QbqvakjydEB-1" source="qlHp2FRM6QbqvakjydEB-33" target="qlHp2FRM6QbqvakjydEB-37">
+        <mxCell id="qlHp2FRM6QbqvakjydEB-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=25;fontColor=#000000;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.173;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=default;" edge="1" parent="qlHp2FRM6QbqvakjydEB-1" source="qlHp2FRM6QbqvakjydEB-33" target="qlHp2FRM6QbqvakjydEB-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1980" y="480" as="sourcePoint" />
             <mxPoint x="2030" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qlHp2FRM6QbqvakjydEB-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;fontSize=25;fontColor=#000000;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=default;exitX=0.817;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="qlHp2FRM6QbqvakjydEB-1" source="qlHp2FRM6QbqvakjydEB-37" target="qlHp2FRM6QbqvakjydEB-34">
+        <mxCell id="qlHp2FRM6QbqvakjydEB-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=25;fontColor=#000000;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=default;exitX=0.817;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="qlHp2FRM6QbqvakjydEB-1" source="qlHp2FRM6QbqvakjydEB-37" target="qlHp2FRM6QbqvakjydEB-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2130" y="450" as="sourcePoint" />
             <mxPoint x="1476.5" y="340.46000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qlHp2FRM6QbqvakjydEB-40" value="作为框架，要注重其扩展能力，因此在后面要做一个后置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=25;fontColor=#000000;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
+        <mxCell id="qlHp2FRM6QbqvakjydEB-40" value="作为框架，要注重其扩展能力，因此在后面要做一个后置&lt;br&gt;BeanFactoryPostProcessor 扩展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=25;fontColor=#000000;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
           <mxGeometry x="1410" y="680" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlHp2FRM6QbqvakjydEB-41" value="BeanPostProcessor&lt;br&gt;后置处理器&lt;br&gt;增强器" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=25;strokeWidth=2;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
+          <mxGeometry x="1960" y="390" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qlHp2FRM6QbqvakjydEB-44" value="BeanFactoryPostProcessor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBorderColor=none;fontSize=25;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
+          <mxGeometry x="1350" y="410" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlHp2FRM6QbqvakjydEB-45" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBorderColor=none;fontSize=25;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
+          <mxGeometry x="1770" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlHp2FRM6QbqvakjydEB-46" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBorderColor=none;fontSize=25;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
+          <mxGeometry x="1770" y="425" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlHp2FRM6QbqvakjydEB-47" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBorderColor=none;fontSize=25;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
+          <mxGeometry x="1770" y="470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlHp2FRM6QbqvakjydEB-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;labelBorderColor=none;fontSize=25;fontColor=#000000;fillColor=#CCFFCC;rotation=-180;portConstraintRotation=0;perimeter=rectanglePerimeter;" vertex="1" parent="qlHp2FRM6QbqvakjydEB-1">
+          <mxGeometry x="1900" y="390" width="42" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
