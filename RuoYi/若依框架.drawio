@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T05:07:23.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="R9f1TssaNzQ2xSixd7fg" version="16.2.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T05:25:36.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Hp5fzpAOm_Oaccmq9oC4" version="16.2.6" type="github" pages="5">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="1556" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GC8yviehDHkQR37qEAlA" name="Page-3">
-    <mxGraphModel dx="1457" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3032" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JYankMjyzqTV-Mno9nf2-0" />
         <mxCell id="JYankMjyzqTV-Mno9nf2-1" parent="JYankMjyzqTV-Mno9nf2-0" />
@@ -341,7 +341,7 @@
           <mxGeometry x="70" y="150" width="740" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#4D9900;strokeColor=#FF8000;strokeWidth=2;fillColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="45" y="580" width="790" height="570" as="geometry" />
+          <mxGeometry x="45" y="580" width="1115" height="700" as="geometry" />
         </mxCell>
         <mxCell id="bzbiTXlW7oj-KKMZCKuq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4D9900;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="JYankMjyzqTV-Mno9nf2-2" target="bzbiTXlW7oj-KKMZCKuq-11">
           <mxGeometry relative="1" as="geometry" />
@@ -519,42 +519,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-8" value="&lt;font color=&quot;#4d9900&quot;&gt;@Configuration&lt;br&gt;&lt;/font&gt;JavaConfig配置类&lt;br&gt;&lt;div&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: break-word ; font-size: inherit ; color: inherit ; line-height: inherit&quot;&gt;JavaConfig形式的IoC容器的配置类&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: break-word ; font-size: inherit ; color: inherit ; line-height: inherit&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; outline: 0px ; max-width: 100% ; box-sizing: border-box ; overflow-wrap: break-word ; font-size: inherit ; color: inherit ; line-height: inherit&quot;&gt;同 XML配置&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="930" y="580" width="240" height="100" as="geometry" />
+          <mxGeometry x="1200" y="580" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-9" value="表达形式层面" style="whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="870" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-11" value="注册bean定义层面" style="whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="1000" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-12" value="表达依赖注入关系层面" style="whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="1130" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-8" target="VbrlkuIR_uDKlw-UUtrg-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1240" y="690" as="sourcePoint" />
-            <mxPoint x="1290" y="640" as="targetPoint" />
+            <mxPoint x="1510" y="690" as="sourcePoint" />
+            <mxPoint x="1560" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1050" y="710" />
-              <mxPoint x="1060" y="710" />
+              <mxPoint x="1320" y="710" />
+              <mxPoint x="1330" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-8" target="VbrlkuIR_uDKlw-UUtrg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="690" as="sourcePoint" />
-            <mxPoint x="1070" y="750" as="targetPoint" />
+            <mxPoint x="1330" y="690" as="sourcePoint" />
+            <mxPoint x="1340" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1050" y="710" />
-              <mxPoint x="1190" y="710" />
+              <mxPoint x="1320" y="710" />
+              <mxPoint x="1460" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-15" value="&lt;font color=&quot;#4d9900&quot;&gt;@ComponentScan&lt;br&gt;&lt;/font&gt;对应XML配置中的元素&lt;br&gt;&lt;div&gt;自动扫描并加载符合条件的组件&lt;br&gt;&lt;/div&gt;&lt;div&gt;最终将这些bean定义加载到IoC容器中。&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="1200" y="580" width="240" height="100" as="geometry" />
+          <mxGeometry x="1470" y="580" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-16" value="&lt;font color=&quot;#4d9900&quot;&gt;@EnableAutoConfiguration&lt;br&gt;&lt;/font&gt;借助@Import的帮助，将所有符合自动配置条件的bean定义加载到IoC容器&lt;br&gt;&lt;br&gt;通过yaml，导入Jar包" style="whiteSpace=wrap;html=1;fontSize=14;align=left;rounded=0;labelBorderColor=none;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="1470" y="580" width="240" height="100" as="geometry" />
+          <mxGeometry x="1740" y="580" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-17" value="执行注解：扫描、载入自动配置的Bean&lt;br&gt;EnableAutoConfiguration 将所有符合自动配置条件的bean定义加载到IoC容器" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#432D57;fontStyle=1;startSize=26;align=left;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
           <mxGeometry x="-320" y="715" width="270" height="50" as="geometry" />
@@ -563,7 +563,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-19" target="VbrlkuIR_uDKlw-UUtrg-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="860" />
+              <mxPoint x="220" y="860" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-19" value="应用启动计时器开始计时&lt;br&gt;应用启动监听器开始监听" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
           <mxGeometry x="330" y="790" width="150" height="60" as="geometry" />
@@ -571,14 +576,17 @@
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-21" value="Headless模式配置" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
           <mxGeometry x="540" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VbrlkuIR_uDKlw-UUtrg-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-23" target="VbrlkuIR_uDKlw-UUtrg-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="109.99999999999977" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="950" />
+              <mxPoint x="110" y="950" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-23" value="SpringApplicationRunListeners&lt;br&gt;应用启动监听器模块" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
           <mxGeometry x="120" y="870" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VbrlkuIR_uDKlw-UUtrg-25" value="启动" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="80" y="970" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-27" target="VbrlkuIR_uDKlw-UUtrg-29">
           <mxGeometry relative="1" as="geometry" />
@@ -635,10 +643,163 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VbrlkuIR_uDKlw-UUtrg-37" value="ConfigurableEnvironment&lt;br&gt;配置环境模块" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="370" y="870" width="160" height="60" as="geometry" />
+          <mxGeometry x="390" y="870" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VbrlkuIR_uDKlw-UUtrg-38" value="创建配置环境（web/noweb）" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
-          <mxGeometry x="360" y="970" width="80" height="40" as="geometry" />
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-37" target="VbrlkuIR_uDKlw-UUtrg-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1010" as="sourcePoint" />
+            <mxPoint x="420" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="950" />
+              <mxPoint x="400" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-37" target="VbrlkuIR_uDKlw-UUtrg-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1090" as="sourcePoint" />
+            <mxPoint x="490" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="950" />
+              <mxPoint x="490" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-37" target="VbrlkuIR_uDKlw-UUtrg-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="940" as="sourcePoint" />
+            <mxPoint x="500" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="950" />
+              <mxPoint x="580" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-44" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" target="VbrlkuIR_uDKlw-UUtrg-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="850" as="sourcePoint" />
+            <mxPoint x="740" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="860" />
+              <mxPoint x="470" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-45" value="ConfigurableApplicationContext&lt;br&gt;应用上下文模块" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="630" y="870" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-47" value="基本属性配置" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="770" y="970" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-19" target="VbrlkuIR_uDKlw-UUtrg-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="860" as="sourcePoint" />
+            <mxPoint x="480" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="860" />
+              <mxPoint x="735" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.52;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-45" target="VbrlkuIR_uDKlw-UUtrg-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689.76" y="940" as="sourcePoint" />
+            <mxPoint x="689.76" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="739" y="950" />
+              <mxPoint x="695" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-50" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;启动&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="80" y="970" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-51" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;创建配置环境（web/noweb）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="360" y="971" width="80" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-52" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;创建应用上下文对象（web/noweb）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="630" y="971" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-53" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;加载属性文件资源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="450" y="971" width="80" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-54" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;配置监听&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="540" y="970" width="80" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-55" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.524;exitY=1;exitDx=0;exitDy=0;entryX=0.534;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-45" target="VbrlkuIR_uDKlw-UUtrg-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1080" as="sourcePoint" />
+            <mxPoint x="810" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="950" />
+              <mxPoint x="829" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-56" value="更新应用上下文" style="whiteSpace=wrap;html=1;strokeColor=#6600CC;fontStyle=1;startSize=26;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="890" y="970" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-57" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.52;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-45" target="VbrlkuIR_uDKlw-UUtrg-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="1100" as="sourcePoint" />
+            <mxPoint x="1000" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="739" y="950" />
+              <mxPoint x="945" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-58" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;准备环境所需bean工厂&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="840" y="1051" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;fillColor=default;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1002" y="1091" as="sourcePoint" />
+            <mxPoint x="998" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-59" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;通过工厂产生环境所需bean&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000CC;strokeColor=#6600CC;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="960" y="1051" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-63" value="工厂模式" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="1050" y="1011" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-64" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" target="VbrlkuIR_uDKlw-UUtrg-63" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="1040" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-65" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-56" target="VbrlkuIR_uDKlw-UUtrg-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1090" as="sourcePoint" />
+            <mxPoint x="1280" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="945" y="1030" />
+              <mxPoint x="880" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-66" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="VbrlkuIR_uDKlw-UUtrg-56" target="VbrlkuIR_uDKlw-UUtrg-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="955" y="1020" as="sourcePoint" />
+            <mxPoint x="890" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="945" y="1030" />
+              <mxPoint x="1000" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-69" value="应用启动计时器结束计时&lt;br&gt;应用启动监听器结束监听" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="902" y="1130" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-70" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 700&quot;&gt;SpringApplication&lt;br&gt;启动结束&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#996185;strokeWidth=2;fillColor=#e6d0de;arcSize=50;gradientColor=#d5739d;" vertex="1" parent="JYankMjyzqTV-Mno9nf2-1">
+          <mxGeometry x="930" y="1220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbrlkuIR_uDKlw-UUtrg-71" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#4D9900;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.857;exitY=0.871;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="JYankMjyzqTV-Mno9nf2-1" source="bzbiTXlW7oj-KKMZCKuq-10" target="VbrlkuIR_uDKlw-UUtrg-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="1220" as="sourcePoint" />
+            <mxPoint x="1240" y="1190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
