@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-22T03:05:04.927Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="2rmLuhYHYqTf85G8ic8L" version="16.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-22T05:50:02.823Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="RqI5YOmIy37VA4kTUwiG" version="16.4.3" type="github" pages="6">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
-    <mxGraphModel dx="1117" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qlHp2FRM6QbqvakjydEB-0" />
         <mxCell id="qlHp2FRM6QbqvakjydEB-1" parent="qlHp2FRM6QbqvakjydEB-0" />
@@ -208,7 +208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GC8yviehDHkQR37qEAlA" name="SpringBoot启动">
-    <mxGraphModel dx="2150" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3061" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JYankMjyzqTV-Mno9nf2-0" />
         <mxCell id="JYankMjyzqTV-Mno9nf2-1" parent="JYankMjyzqTV-Mno9nf2-0" />
@@ -887,7 +887,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5YMj6IiK4VI-nKgOGlTZ" name="文件结构（模块关系）">
-    <mxGraphModel dx="1117" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="b4bja8ucJGH01z92zfKD-0" />
         <mxCell id="b4bja8ucJGH01z92zfKD-1" parent="b4bja8ucJGH01z92zfKD-0" />
@@ -980,7 +980,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t18ON_xlF93WCt3QlZsh" name="目录结构">
-    <mxGraphModel dx="920" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YqdEO_k38wzdYZYBX-mB-0" />
         <mxCell id="YqdEO_k38wzdYZYBX-mB-1" parent="YqdEO_k38wzdYZYBX-mB-0" />
@@ -1062,6 +1062,21 @@
               <mxPoint x="687" y="330" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KAKbjMKCx08ZKhVDTiZ_-0" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;dao层操作单表，不涉及复杂逻辑，主要是表的增删改查操作，完全根据domain的要求来查询数据。&lt;span style=&quot;color: rgb(79 , 79 , 79) ; font-family: , &amp;#34;sf ui text&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif , &amp;#34;simhei&amp;#34; , &amp;#34;simsun&amp;#34; ; background-color: rgb(238 , 240 , 244)&quot;&gt;Dao 数据访问层：就是用来访问数据库实现数据的持久化（把内存中的数据永久保存到硬盘中 ）。&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YqdEO_k38wzdYZYBX-mB-1">
+          <mxGeometry x="90" y="555" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAKbjMKCx08ZKhVDTiZ_-1" value="&lt;span style=&quot;text-indent: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;domain层考虑业务逻辑，例如过滤条件，放行或者返回，以及数据的处理，为调用dao层做好准备，一个domain可以调用一个或者一组相关的dao层&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;domain：实体类（entity）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="YqdEO_k38wzdYZYBX-mB-1">
+          <mxGeometry x="-210" y="357.5" width="280" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KAKbjMKCx08ZKhVDTiZ_-2" value="service层调用一个或者一组domain层，主要是展现需要开放出去的接口，其中domain层不是所有的接口都要再service层体现的，可能仅在service层开放几个接口出去，此外，主要接口需要对接受的参数要尽量的扩大化，也就是说可以容纳各种类型的参数的接入(Object)，然后需要在service层做好转换，以备domain层使用。" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="YqdEO_k38wzdYZYBX-mB-1">
+          <mxGeometry x="520" y="425" width="360" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KAKbjMKCx08ZKhVDTiZ_-3" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;正确的设计应该是，一个领域活动会聚合对应一个或一组DAO&amp;nbsp;，来完成一个领域活动。而一个服务可能包含两个领域活动，比如一个转账的业务，对应两个领域活动。两个帐户的金额分别发生变化，需要操作一组领域活动，而每个活动需要操作很多表(调用多个DAO&amp;nbsp;)。&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="YqdEO_k38wzdYZYBX-mB-1">
+          <mxGeometry x="190" y="680" width="550" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAKbjMKCx08ZKhVDTiZ_-4" value="&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;IUser&lt;br&gt;ServiceUser&lt;br&gt;ServiceIUserDomain&lt;br&gt;UserDomain&lt;br&gt;IUserDao&lt;br&gt;UserSqlDao&lt;br&gt;UserHbaseDao&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="YqdEO_k38wzdYZYBX-mB-1">
+          <mxGeometry x="960" y="730" width="550" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
