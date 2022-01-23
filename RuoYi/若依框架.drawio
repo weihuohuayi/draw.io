@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T02:43:41.628Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="pxpkX97hlGhs880Ih_S3" version="16.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-23T04:10:32.849Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="E-wwNr80boBhjewan4dt" version="16.4.3" type="github" pages="7">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="782" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -887,7 +887,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5YMj6IiK4VI-nKgOGlTZ" name="文件结构（模块关系）">
-    <mxGraphModel dx="782" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="b4bja8ucJGH01z92zfKD-0" />
         <mxCell id="b4bja8ucJGH01z92zfKD-1" parent="b4bja8ucJGH01z92zfKD-0" />
@@ -980,7 +980,7 @@
         <mxCell id="7fgmyCrtNOZVDMXkI8cS-3" value="Entity实体类" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="b4bja8ucJGH01z92zfKD-1" vertex="1">
           <mxGeometry x="510" y="225" width="90" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="7fgmyCrtNOZVDMXkI8cS-4" value="DAO（mapper）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="b4bja8ucJGH01z92zfKD-1" vertex="1">
+        <mxCell id="7fgmyCrtNOZVDMXkI8cS-4" value="DAO（或mapper）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="b4bja8ucJGH01z92zfKD-1" vertex="1">
           <mxGeometry x="530" y="325" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0NMiDEjptxwBMsw9Hgbd-0" value="service（）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="b4bja8ucJGH01z92zfKD-1" vertex="1">
@@ -1065,7 +1065,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t18ON_xlF93WCt3QlZsh" name="类关系">
-    <mxGraphModel dx="1747" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YqdEO_k38wzdYZYBX-mB-0" />
         <mxCell id="YqdEO_k38wzdYZYBX-mB-1" parent="YqdEO_k38wzdYZYBX-mB-0" />
@@ -1258,7 +1258,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="782" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1375,6 +1375,38 @@
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
             <mxPoint x="-38" y="40" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="S9jHtgXhtnfX8KJ8bdgN" name="技术架构">
+    <mxGraphModel dx="782" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-0" />
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-1" parent="UPxe8pxnWU9atQBUdUmI-0" />
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-2" value="版本控制GIt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+          <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-3" value="Excel报表 POI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+          <mxGeometry x="324" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-4" value="可视化报表 Echarts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+          <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-5" value="阿里云通信（短信服务）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-6" value="微信开发平台（公众号）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+          <mxGeometry x="490" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-7" value="阿里云（存储）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-8" value="第三方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+          <mxGeometry x="70" y="340" width="600" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-9" value="数据持久化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+          <mxGeometry x="70" y="180" width="600" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
