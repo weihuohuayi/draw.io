@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T04:10:32.849Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="E-wwNr80boBhjewan4dt" version="16.4.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-23T04:13:58.922Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0-UGwbF8V-2jt7AjCRPO" version="16.4.3" type="github" pages="8">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="782" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1384,29 +1384,52 @@
       <root>
         <mxCell id="UPxe8pxnWU9atQBUdUmI-0" />
         <mxCell id="UPxe8pxnWU9atQBUdUmI-1" parent="UPxe8pxnWU9atQBUdUmI-0" />
-        <mxCell id="UPxe8pxnWU9atQBUdUmI-2" value="版本控制GIt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-2" value="版本控制GIt" style="rounded=1;whiteSpace=wrap;html=1;" parent="UPxe8pxnWU9atQBUdUmI-1" vertex="1">
           <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UPxe8pxnWU9atQBUdUmI-3" value="Excel报表 POI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-3" value="Excel报表 POI" style="rounded=1;whiteSpace=wrap;html=1;" parent="UPxe8pxnWU9atQBUdUmI-1" vertex="1">
           <mxGeometry x="324" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UPxe8pxnWU9atQBUdUmI-4" value="可视化报表 Echarts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-4" value="可视化报表 Echarts" style="rounded=1;whiteSpace=wrap;html=1;" parent="UPxe8pxnWU9atQBUdUmI-1" vertex="1">
           <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UPxe8pxnWU9atQBUdUmI-5" value="阿里云通信（短信服务）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-5" value="阿里云通信（短信服务）" style="rounded=1;whiteSpace=wrap;html=1;" parent="UPxe8pxnWU9atQBUdUmI-1" vertex="1">
           <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UPxe8pxnWU9atQBUdUmI-6" value="微信开发平台（公众号）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-6" value="微信开发平台（公众号）" style="rounded=1;whiteSpace=wrap;html=1;" parent="UPxe8pxnWU9atQBUdUmI-1" vertex="1">
           <mxGeometry x="490" y="380" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UPxe8pxnWU9atQBUdUmI-7" value="阿里云（存储）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-7" value="阿里云（存储）" style="rounded=1;whiteSpace=wrap;html=1;" parent="UPxe8pxnWU9atQBUdUmI-1" vertex="1">
           <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UPxe8pxnWU9atQBUdUmI-8" value="第三方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-8" value="第三方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="UPxe8pxnWU9atQBUdUmI-1" vertex="1">
           <mxGeometry x="70" y="340" width="600" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="UPxe8pxnWU9atQBUdUmI-9" value="数据持久化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="UPxe8pxnWU9atQBUdUmI-1">
+        <mxCell id="UPxe8pxnWU9atQBUdUmI-9" value="数据持久化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="UPxe8pxnWU9atQBUdUmI-1" vertex="1">
           <mxGeometry x="70" y="180" width="600" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cAiv0cnaX17IloVB-hAX" name="功能架构">
+    <mxGraphModel dx="782" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="iCBvGduDFQRgRJlBsveX-0" />
+        <mxCell id="iCBvGduDFQRgRJlBsveX-1" parent="iCBvGduDFQRgRJlBsveX-0" />
+        <mxCell id="iCBvGduDFQRgRJlBsveX-2" value="前台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iCBvGduDFQRgRJlBsveX-1">
+          <mxGeometry x="560" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCBvGduDFQRgRJlBsveX-3" value="后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iCBvGduDFQRgRJlBsveX-1">
+          <mxGeometry x="200" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCBvGduDFQRgRJlBsveX-4" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iCBvGduDFQRgRJlBsveX-1">
+          <mxGeometry x="210" y="210" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCBvGduDFQRgRJlBsveX-5" value="数据访问层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iCBvGduDFQRgRJlBsveX-1">
+          <mxGeometry x="210" y="320" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCBvGduDFQRgRJlBsveX-6" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="iCBvGduDFQRgRJlBsveX-1">
+          <mxGeometry x="350" y="440" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
