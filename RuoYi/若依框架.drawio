@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T22:44:57.659Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ghLvzrmkInV6rPeQi9BZ" version="16.4.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-23T22:55:11.224Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ETe5O-HjkYew3FCOdlQl" version="16.4.3" type="github" pages="9">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="782" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1578,7 +1578,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-35" value="AjaxResult" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
-          <mxGeometry x="630" y="490" width="160" height="86" as="geometry" />
+          <mxGeometry x="620" y="499" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-36" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cad--gHxSakhbTCrXFnS-35">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -1619,11 +1619,14 @@
         <mxCell id="cad--gHxSakhbTCrXFnS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-49" target="cad--gHxSakhbTCrXFnS-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-49" target="cad--gHxSakhbTCrXFnS-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-49" value="text" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
           <mxGeometry x="880" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-51" value="CharsetKit" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
-          <mxGeometry x="790" y="400" width="160" height="86" as="geometry" />
+          <mxGeometry x="770" y="600" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-52" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cad--gHxSakhbTCrXFnS-51">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -1635,7 +1638,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-56" value="StringUtils" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
-          <mxGeometry x="1230" y="90" width="70" height="50" as="geometry" />
+          <mxGeometry x="1270" y="170" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-57" target="cad--gHxSakhbTCrXFnS-18">
           <mxGeometry relative="1" as="geometry" />
@@ -1651,11 +1654,19 @@
         <mxCell id="cad--gHxSakhbTCrXFnS-57" value="common" style="html=1;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
           <mxGeometry x="360" y="90" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-59" target="cad--gHxSakhbTCrXFnS-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="460" />
+              <mxPoint x="1230" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-59" value="utils" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
           <mxGeometry x="1020" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-61" value="StringUtils" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
-          <mxGeometry x="1081" y="576" width="160" height="86" as="geometry" />
+          <mxGeometry x="1150" y="510" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-62" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cad--gHxSakhbTCrXFnS-61">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -1679,7 +1690,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-67" value="StrFormatter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
-          <mxGeometry x="960" y="400" width="160" height="86" as="geometry" />
+          <mxGeometry x="960" y="600" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-68" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cad--gHxSakhbTCrXFnS-67">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -1690,16 +1701,69 @@
         <mxCell id="cad--gHxSakhbTCrXFnS-70" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cad--gHxSakhbTCrXFnS-67">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cad--gHxSakhbTCrXFnS-73" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.506;entryY=1.179;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-61" target="cad--gHxSakhbTCrXFnS-70">
+        <mxCell id="cad--gHxSakhbTCrXFnS-73" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.456;entryY=1.103;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-61" target="cad--gHxSakhbTCrXFnS-12">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="950" y="560" as="sourcePoint" />
             <mxPoint x="1110" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="449" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cad--gHxSakhbTCrXFnS-74" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cad--gHxSakhbTCrXFnS-73">
           <mxGeometry x="0.2133" relative="1" as="geometry">
             <mxPoint x="12" y="-14" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-75" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.481;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.702;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-70" target="cad--gHxSakhbTCrXFnS-64">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1230" y="470" as="sourcePoint" />
+            <mxPoint x="1390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-76" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.431;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.481;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-54" target="cad--gHxSakhbTCrXFnS-64">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1046.96" y="496" as="sourcePoint" />
+            <mxPoint x="1171" y="586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-78" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.519;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-61" target="cad--gHxSakhbTCrXFnS-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1087.04" y="571.32" as="sourcePoint" />
+            <mxPoint x="70" y="509.998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cad--gHxSakhbTCrXFnS-78">
+          <mxGeometry x="0.2024" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-81" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-36" target="cad--gHxSakhbTCrXFnS-62">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="830" y="530" as="sourcePoint" />
+            <mxPoint x="990" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-82" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.39;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="cad--gHxSakhbTCrXFnS-1" source="cad--gHxSakhbTCrXFnS-36" target="cad--gHxSakhbTCrXFnS-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="650" as="sourcePoint" />
+            <mxPoint x="570" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-83" value="Convert" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="cad--gHxSakhbTCrXFnS-1">
+          <mxGeometry x="860" y="720" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-84" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cad--gHxSakhbTCrXFnS-83">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-85" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="cad--gHxSakhbTCrXFnS-83">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="cad--gHxSakhbTCrXFnS-86" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cad--gHxSakhbTCrXFnS-83">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
