@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T07:15:34.333Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7RsLmvwrrJCHB9UbsQ_X" version="16.4.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-23T07:17:02.094Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="BlQYvY1sN5-e4tsL-ySx" version="16.4.3" type="github" pages="8">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="782" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1077,8 +1077,8 @@
         <mxCell id="YemyfcWf3qDWUsVCzXop-0" value="父工程&lt;br&gt;zeyy-parent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="b4bja8ucJGH01z92zfKD-1">
           <mxGeometry x="1121" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YemyfcWf3qDWUsVCzXop-3" value="父工程，统一管理依赖聚合其他子模块" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b4bja8ucJGH01z92zfKD-1">
-          <mxGeometry x="1260" y="80" width="120" height="30" as="geometry" />
+        <mxCell id="YemyfcWf3qDWUsVCzXop-3" value="父工程，统一管理锁定依赖版本，聚合其他子模块，父工程的打包方式pom" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b4bja8ucJGH01z92zfKD-1">
+          <mxGeometry x="1260" y="80" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YemyfcWf3qDWUsVCzXop-4" value="通用模块，打包方式jar，存放工具类实体类等通用组件" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b4bja8ucJGH01z92zfKD-1">
           <mxGeometry x="1140" y="200" width="150" height="30" as="geometry" />
