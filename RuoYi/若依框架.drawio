@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T08:31:00.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QvTqLIiNvrKBKCjXpodX" version="16.3.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-24T08:46:25.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="iQ_0s4M9c8QmK8z7V_W1" version="16.3.0" type="github" pages="10">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
     <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1804,14 +1804,14 @@
         <mxCell id="unqxE7iWfu0Bu1twes4o-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Bean&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 51)&quot;&gt;ChenckItem&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ implements Serializable&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ private Integer id&lt;br&gt;+ private String name&lt;/p&gt;&amp;nbsp;+ private String age" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
           <mxGeometry x="540" y="890" width="290" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="unqxE7iWfu0Bu1twes4o-10" value="&lt;span style=&quot;font-weight: 400&quot;&gt;controller&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=23;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
+        <mxCell id="unqxE7iWfu0Bu1twes4o-10" value="&lt;span style=&quot;font-weight: 400&quot;&gt;controller&lt;br&gt;访问层&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=23;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
           <mxGeometry x="304" y="70" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="unqxE7iWfu0Bu1twes4o-11" value="&lt;span style=&quot;font-weight: 400&quot;&gt;system&lt;br&gt;service&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=23;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
+        <mxCell id="unqxE7iWfu0Bu1twes4o-11" value="&lt;span style=&quot;font-weight: 400&quot;&gt;system&lt;br&gt;核心业务&lt;br&gt;service&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=23;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
           <mxGeometry x="301" y="440" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="unqxE7iWfu0Bu1twes4o-12" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Entity&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=23;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
-          <mxGeometry x="304" y="870" width="170" height="80" as="geometry" />
+        <mxCell id="unqxE7iWfu0Bu1twes4o-12" value="&lt;span style=&quot;font-weight: 400&quot;&gt;common&lt;br&gt;通用层&lt;br&gt;Entity&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=23;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
+          <mxGeometry x="304" y="870" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="unqxE7iWfu0Bu1twes4o-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;" edge="1" parent="unqxE7iWfu0Bu1twes4o-1" source="unqxE7iWfu0Bu1twes4o-13" target="unqxE7iWfu0Bu1twes4o-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1830,6 +1830,9 @@
         </mxCell>
         <mxCell id="unqxE7iWfu0Bu1twes4o-16" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;DAO&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(0 , 255 , 0)&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ChenckItemMapper&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ 定义一个mapper映射&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ 产生sql&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ add(&lt;span style=&quot;background-color: rgb(255 , 255 , 102)&quot;&gt;CheckItem &lt;/span&gt;checkItem)&lt;br&gt;+ private String name&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
           <mxGeometry x="545" y="670" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="unqxE7iWfu0Bu1twes4o-20" value="&lt;span style=&quot;font-weight: 400&quot;&gt;framework&lt;br&gt;核心配置&lt;br&gt;&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=23;" vertex="1" parent="unqxE7iWfu0Bu1twes4o-1">
+          <mxGeometry x="40" y="650" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
