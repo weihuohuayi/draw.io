@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T00:50:07.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="XkPAZZJd7-qmf2RSX36-" version="16.3.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-25T14:14:11.224Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ylCWMPRphkyCmu9hGUgR" version="16.4.6" type="github" pages="9">
   <diagram id="kqfP699VBJox2vOD8rr0" name="Spring">
-    <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qlHp2FRM6QbqvakjydEB-0" />
         <mxCell id="qlHp2FRM6QbqvakjydEB-1" parent="qlHp2FRM6QbqvakjydEB-0" />
@@ -1228,7 +1228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O3emxuHTOACp3qw6r1bG" name="表结构">
-    <mxGraphModel dx="2150" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Xg0iLcSQBS8ScKpDB3wE-0" />
         <mxCell id="Xg0iLcSQBS8ScKpDB3wE-1" parent="Xg0iLcSQBS8ScKpDB3wE-0" />
@@ -1314,7 +1314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S9jHtgXhtnfX8KJ8bdgN" name="技术架构">
-    <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UPxe8pxnWU9atQBUdUmI-0" />
         <mxCell id="UPxe8pxnWU9atQBUdUmI-1" parent="UPxe8pxnWU9atQBUdUmI-0" />
@@ -1346,7 +1346,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cAiv0cnaX17IloVB-hAX" name="功能架构">
-    <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iCBvGduDFQRgRJlBsveX-0" />
         <mxCell id="iCBvGduDFQRgRJlBsveX-1" parent="iCBvGduDFQRgRJlBsveX-0" />
@@ -1369,7 +1369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a5XHX2dHJu4kT-KXh2FO" name="实体依赖">
-    <mxGraphModel dx="2150" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cad--gHxSakhbTCrXFnS-0" />
         <mxCell id="cad--gHxSakhbTCrXFnS-1" parent="cad--gHxSakhbTCrXFnS-0" />
@@ -1683,7 +1683,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z5NURg1uqGRINVFOuxkp" name="一个完整业务过程">
-    <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="unqxE7iWfu0Bu1twes4o-0" />
         <mxCell id="unqxE7iWfu0Bu1twes4o-1" parent="unqxE7iWfu0Bu1twes4o-0" />
@@ -1731,8 +1731,8 @@
         <mxCell id="unqxE7iWfu0Bu1twes4o-20" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Framework&lt;br&gt;核心配置&lt;br&gt;&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=23;" parent="unqxE7iWfu0Bu1twes4o-1" vertex="1">
           <mxGeometry x="60" y="440" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a2oLGqUGWA8QYEAebZln-0" value="&lt;h1&gt;Service&lt;/h1&gt;&lt;p&gt;如果你的service要调用到别人的内容，需要调用对方的Service，不要直接将对方的mapper注入进来.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="unqxE7iWfu0Bu1twes4o-1" vertex="1">
-          <mxGeometry x="1300" y="550" width="200" height="120" as="geometry" />
+        <mxCell id="a2oLGqUGWA8QYEAebZln-0" value="&lt;h1&gt;Service&lt;/h1&gt;&lt;p&gt;在团队开发中，有一个规矩&lt;/p&gt;&lt;p&gt;如果希望调用自己模块的表，直接注入自己的mapper&lt;/p&gt;&lt;p&gt;如果你的service要调用到别人的内容，需要调用对方的Service，不要直接将对方的mapper注入进来.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="unqxE7iWfu0Bu1twes4o-1" vertex="1">
+          <mxGeometry x="1260" y="570" width="330" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
