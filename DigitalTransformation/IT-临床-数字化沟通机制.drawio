@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T06:42:34.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="yRkAtEfsJPqygmkQlmEF" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T06:58:24.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="MZa9NGqQ_GWdQu7fToCU" version="16.5.3" type="github">
   <diagram id="6M_3DbEyFA1FZBRwcw8G" name="Page-1">
     <mxGraphModel dx="2117" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="70" width="210" height="390" as="geometry" />
+        </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-1" target="hiLATxAfCj0K_WwFSRv8-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -23,38 +26,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-1" value="职能部门" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-2" value="目前软件缺陷" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-4" value="数字化办公室调研工作机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
-          <mxGeometry x="80" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-5" target="hiLATxAfCj0K_WwFSRv8-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="200" />
-              <mxPoint x="390" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-5" target="hiLATxAfCj0K_WwFSRv8-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="200" />
-              <mxPoint x="390" y="395" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-5" target="hiLATxAfCj0K_WwFSRv8-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-5" target="hiLATxAfCj0K_WwFSRv8-30" edge="1">
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-5" target="uj3Y6mQmVN2Dnn5M9_Hd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-5" value="提供目前需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-7" target="hiLATxAfCj0K_WwFSRv8-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,8 +68,8 @@
         <mxCell id="hiLATxAfCj0K_WwFSRv8-7" value="IT中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="910" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-8" value="合作第三方公司" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="hiLATxAfCj0K_WwFSRv8-8" value="目前合作伙伴" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-10" target="hiLATxAfCj0K_WwFSRv8-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -104,7 +88,7 @@
         <mxCell id="hiLATxAfCj0K_WwFSRv8-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-10" target="hiLATxAfCj0K_WwFSRv8-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="35" />
+              <mxPoint x="770" y="65" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,25 +137,31 @@
           <mxGeometry x="770" y="552.5" width="240" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-20" value="有需求，无参照" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="425" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="374" y="280" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-22" value="有需求，有合作公司计划升级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" parent="1" vertex="1">
-          <mxGeometry x="425" y="360" width="120" height="70" as="geometry" />
+          <mxGeometry x="374" y="95" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-24" value="无需求，指南有要求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="425" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="hiLATxAfCj0K_WwFSRv8-24" value="无需求，属于指南要求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="374" y="370" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-26" target="hiLATxAfCj0K_WwFSRv8-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-26" value="评估行业内潜在公司合作，能否满足" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="570" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="117.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-28" target="hiLATxAfCj0K_WwFSRv8-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-28" value="评估公司资质能力长期合作可能性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="570" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-30" value="有需求，有参照" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="425" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="hiLATxAfCj0K_WwFSRv8-30" value="有需求，有其他医院软件参考" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="374" y="190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-32" value="评估升级覆盖其他部门需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="707" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hiLATxAfCj0K_WwFSRv8-46" target="hiLATxAfCj0K_WwFSRv8-40" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -252,8 +242,11 @@
         <mxCell id="hiLATxAfCj0K_WwFSRv8-62" value="公司能力库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1700" y="600" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-65" target="hiLATxAfCj0K_WwFSRv8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-65" value="评估现有合作单位能否对接" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="570" y="5" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-68" value="专业需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-180" y="160" width="120" height="60" as="geometry" />
@@ -264,20 +257,29 @@
         <mxCell id="hiLATxAfCj0K_WwFSRv8-72" value="追踪、汇报、协调" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="414" y="910" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="hiLATxAfCj0K_WwFSRv8-76" target="hiLATxAfCj0K_WwFSRv8-30" edge="1">
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-76" target="hiLATxAfCj0K_WwFSRv8-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-76" value="好评系统引进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="hiLATxAfCj0K_WwFSRv8-76" value="好评软件引进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-79" value="职能部门" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-80" value="IT中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="910" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-1" value="使用评估需要用户端来体验&lt;br&gt;比如现场使用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="2260" y="-40" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uj3Y6mQmVN2Dnn5M9_Hd-10" target="hiLATxAfCj0K_WwFSRv8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uj3Y6mQmVN2Dnn5M9_Hd-10" target="hiLATxAfCj0K_WwFSRv8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-10" value="提供公司库的潜在匹配公司" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="570" y="326.25" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
