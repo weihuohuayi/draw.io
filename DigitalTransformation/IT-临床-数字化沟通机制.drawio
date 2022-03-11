@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T05:39:42.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6l0_bf9Wuh8zQAmCVob4" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T05:40:24.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="H6_xZ3koOEdSsMdVLJ2R" version="16.5.3" type="github">
   <diagram id="6M_3DbEyFA1FZBRwcw8G" name="Page-1">
     <mxGraphModel dx="2117" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,17 +111,14 @@
         <mxCell id="hiLATxAfCj0K_WwFSRv8-10" value="提供需求解决建设性意见" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-14" value="职能部门" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="860" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-15" value="&lt;div&gt;&lt;span&gt;- 提供指南的基本条目&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- 对医院发展的长远意义&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- 为职能部门的工作抛砖引玉&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
-          <mxGeometry x="100" y="475" width="240" height="90" as="geometry" />
+          <mxGeometry x="30" y="490" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-16" target="hiLATxAfCj0K_WwFSRv8-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="600" />
-              <mxPoint x="220" y="600" />
+              <mxPoint x="400" y="640" />
+              <mxPoint x="220" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -129,19 +126,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-16" target="hiLATxAfCj0K_WwFSRv8-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="640" />
+              <mxPoint x="755" y="640" />
+              <mxPoint x="755" y="545" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-16" target="hiLATxAfCj0K_WwFSRv8-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="640" />
+              <mxPoint x="450" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-16" value="数字化推进办公室" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="hiLATxAfCj0K_WwFSRv8-16" value="数字化推进办公室" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-18" value="- 根据职能部门和IT反馈，确认目前职能部门的信息化状态，总结现状，汇报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
-          <mxGeometry x="580" y="590" width="290" height="90" as="geometry" />
+          <mxGeometry x="610" y="500" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-19" value="&lt;div&gt;&lt;/div&gt;- 需求调节&lt;br&gt;- 组织推动&lt;span&gt;各方，职能部门、IT、第三方公司进行会议沟通或单线沟通&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;- 协调各方进行沟通&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
-          <mxGeometry x="400" y="455" width="240" height="110" as="geometry" />
+          <mxGeometry x="330" y="480" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-20" value="有需求，无参照" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="425" y="80" width="120" height="60" as="geometry" />
@@ -260,6 +268,12 @@
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-76" value="好评系统引进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiLATxAfCj0K_WwFSRv8-79" value="职能部门" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiLATxAfCj0K_WwFSRv8-80" value="IT中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="910" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
