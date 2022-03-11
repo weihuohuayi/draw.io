@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T05:40:24.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="H6_xZ3koOEdSsMdVLJ2R" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T05:44:49.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="0B19O0KfOadv_imclElH" version="16.5.3" type="github">
   <diagram id="6M_3DbEyFA1FZBRwcw8G" name="Page-1">
     <mxGraphModel dx="2117" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="hiLATxAfCj0K_WwFSRv8-2" value="目前软件缺陷" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-4" value="数字化办公室调研工作机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="hiLATxAfCj0K_WwFSRv8-4" value="数字化办公室调研工作机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="hiLATxAfCj0K_WwFSRv8-5" target="hiLATxAfCj0K_WwFSRv8-20">
           <mxGeometry relative="1" as="geometry">
@@ -164,7 +164,7 @@
           <mxGeometry x="570" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-28" value="评估公司资质能力长期合作可能性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-30" value="有需求，有参照" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="425" y="280" width="120" height="60" as="geometry" />
@@ -211,9 +211,6 @@
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-40" value="前期技术基础评估：评估第三方公司目前采用的技术架构、技术栈（技术框架）能否满足本院的指定需求。所采用的各项关键技术的成熟度。&lt;br&gt;&lt;br&gt;外援技术能力评估：行业内口碑如何，是否具备寻求外援的能力，挖人还是找合作？&lt;br&gt;&lt;br&gt;技术研发投入评估&lt;br&gt;- 团队投入：是否有完整的人员配备，各功能角色人数&lt;br&gt;- 技术体系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="1800" y="-360" width="510" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="hiLATxAfCj0K_WwFSRv8-44" value="IT——林特" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="800" y="25" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hiLATxAfCj0K_WwFSRv8-46" value="技术能力评估&lt;br&gt;（近期有没有能力实现当下需求）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-70" width="150" height="75" as="geometry" />
