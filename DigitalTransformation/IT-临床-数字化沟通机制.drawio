@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T01:06:50.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Lje-kkO6zcjvzm8eiP8p" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T01:33:09.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TKmNoylh0ONV8AAamLQ9" version="16.5.3" type="github">
   <diagram id="6M_3DbEyFA1FZBRwcw8G" name="Page-1">
-    <mxGraphModel dx="4300" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,8 +304,8 @@
         <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-10" value="提供公司库的潜在匹配公司" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="860" y="598.75" width="120" height="58.75" as="geometry" />
         </mxCell>
-        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-15" value="&lt;font style=&quot;font-size: 15px&quot;&gt;曾经的案例，既有的经验，你们能做到什么程度，能不能定制化的做到我们的需求，首先看一下你们有没有这个能力。最好是有数据效果演示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="950" width="670" height="160" as="geometry" />
+        <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-15" value="&lt;font style=&quot;font-size: 15px&quot;&gt;曾经的案例，既有的经验，你们能做到什么程度，能不能定制化的做到我们的需求，首先看一下你们有没有这个能力。最好是有数据效果演示&lt;br&gt;&lt;br&gt;行研，头部公司，IT&lt;br&gt;人员规模组成&lt;br&gt;核心人员履历&lt;br&gt;成功服务案例&lt;br&gt;医院角度制定一套标准&lt;br&gt;医院实际角度&lt;br&gt;投融资&lt;br&gt;&lt;br&gt;群策群力&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="782.5" width="670" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uj3Y6mQmVN2Dnn5M9_Hd-21" value="评估现有系统能否覆盖功能，有没有合作单位可以对接开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="860" y="502.5" width="170" height="80" as="geometry" />
