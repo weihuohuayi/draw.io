@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T00:00:32.494Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="17.4.0" etag="JTOGp9xT8nW8mb7L2bwD" type="github"><diagram id="24zSuS_yfWg_4KOO7zNB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-07T00:17:43.616Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="VT6G3ZKH-5X35wa4-LsA" version="17.4.0" type="github">
+  <diagram id="24zSuS_yfWg_4KOO7zNB" name="Page-1">
+    <mxGraphModel dx="1117" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-2" value="IOS快捷指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o55OZYMd_BaPU5_LTkPQ-3" target="o55OZYMd_BaPU5_LTkPQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-3" value="api.github.com/repos/weihuohuayi/仓库名/contents/子路径/文件名.jpg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-4" value="token:github" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.29" y="450" as="sourcePoint" />
+            <mxPoint x="164.29" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o55OZYMd_BaPU5_LTkPQ-6" target="o55OZYMd_BaPU5_LTkPQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-6" value="github申请个人access token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o55OZYMd_BaPU5_LTkPQ-8" value="PUT&amp;nbsp; &amp;nbsp; &amp;nbsp;上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
