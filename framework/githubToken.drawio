@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T08:04:27.570Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="eT9i9hgclWraQXCOrcfs" version="17.4.0" type="github">
-  <diagram id="wsYw_jGY_GhOUH61h17W" name="Page-2">
+<mxfile host="app.diagrams.net" modified="2022-04-09T08:14:39.091Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="QBFDwzreG1IOvClGUs4F" version="17.4.0" type="github" pages="2">
+  <diagram id="wsYw_jGY_GhOUH61h17W" name="流程模式图">
     <mxGraphModel dx="1303" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -161,6 +161,82 @@
         </mxCell>
         <mxCell id="asTFpSAHwMeWihZmd_qI-11" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;rounded=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="584.4" y="985" width="131.2" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="riYOoDZCJGjTEoqnWD9I" name="思路">
+    <mxGraphModel dx="1303" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="mM_HV4tbROZnTlWVBWoI-1" target="mM_HV4tbROZnTlWVBWoI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-1" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;上传健康码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="326" y="100" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="mM_HV4tbROZnTlWVBWoI-2" target="mM_HV4tbROZnTlWVBWoI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;WebHoolk&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="mM_HV4tbROZnTlWVBWoI-18">
+          <mxGeometry x="-0.1678" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-2" value="GIthub仓库发生内容更新" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="mM_HV4tbROZnTlWVBWoI-5" target="mM_HV4tbROZnTlWVBWoI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-10" value="6:45&lt;br style=&quot;font-size: 12px;&quot;&gt;定时触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="mM_HV4tbROZnTlWVBWoI-7">
+          <mxGeometry x="-0.1611" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-5" value="jenkins自动启动通知" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="mM_HV4tbROZnTlWVBWoI-6" target="mM_HV4tbROZnTlWVBWoI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-11" value="运行结束自动触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="mM_HV4tbROZnTlWVBWoI-9">
+          <mxGeometry x="-0.1641" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-6" value="项目：钉钉机器人通知发送健康码" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="326" y="250" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mM_HV4tbROZnTlWVBWoI-8" target="mM_HV4tbROZnTlWVBWoI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-8" value="项目：删除远程仓库健康码图片" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="720" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-12" value="GIthub仓库发送内容更新" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="960" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mM_HV4tbROZnTlWVBWoI-14" target="mM_HV4tbROZnTlWVBWoI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-16" value="7:00&lt;br&gt;定时触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="mM_HV4tbROZnTlWVBWoI-15">
+          <mxGeometry x="-0.2198" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-14" value="闹钟激活手机&lt;br&gt;快捷指令" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="mM_HV4tbROZnTlWVBWoI-17" target="mM_HV4tbROZnTlWVBWoI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-17" value="服务器jenkins启动发送健康码" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="910" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-20" value="项目：钉钉机器人发送健康码" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="100" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
