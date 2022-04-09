@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T08:14:39.091Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="QBFDwzreG1IOvClGUs4F" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-09T12:14:06.815Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ZUh5BNJbLo2Wnf83PxQO" version="17.4.0" type="github" pages="2">
   <diagram id="wsYw_jGY_GhOUH61h17W" name="流程模式图">
     <mxGraphModel dx="1303" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="riYOoDZCJGjTEoqnWD9I" name="思路">
-    <mxGraphModel dx="1303" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,11 +232,16 @@
         <mxCell id="mM_HV4tbROZnTlWVBWoI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="mM_HV4tbROZnTlWVBWoI-17" target="mM_HV4tbROZnTlWVBWoI-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mM_HV4tbROZnTlWVBWoI-22" value="webhook" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="mM_HV4tbROZnTlWVBWoI-21">
+          <mxGeometry x="-0.1117" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mM_HV4tbROZnTlWVBWoI-17" value="服务器jenkins启动发送健康码" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="910" y="100" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mM_HV4tbROZnTlWVBWoI-20" value="项目：钉钉机器人发送健康码" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;sketch=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="100" width="160" height="60" as="geometry" />
+          <mxGeometry x="1220" y="100" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
